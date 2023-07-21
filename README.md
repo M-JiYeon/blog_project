@@ -76,27 +76,37 @@
 
 ---
 ## 4. 데이터베이스 모델링(ERD)
-![](https://velog.velcdn.com/images/seatrea/post/9fbf028f-1c4a-4b04-8269-5571e0c059b4/image.png)
+![](https://velog.velcdn.com/images/seatrea/post/0279c49c-5c2e-4129-b484-d6cda1ea70c0/image.png)
 
 ---
 ## 5. 실행 화면
 - 메인 페이지
-![](https://velog.velcdn.com/images/seatrea/post/e2480544-5e24-4e33-b79e-f16c5163df00/image.png)
+
+![](https://velog.velcdn.com/images/seatrea/post/dbf1ec98-2e1c-42a7-b242-aec2889c3548/image.png)
 
 - 회원가입 페이지
-![](https://velog.velcdn.com/images/seatrea/post/36260a5d-1f18-49b4-a777-8940e2bdb4ab/image.png)
+
+![](https://velog.velcdn.com/images/seatrea/post/fefc9d45-5229-4c5d-b10c-73775648d3b8/image.png)
 
 - 로그인 페이지
-![](https://velog.velcdn.com/images/seatrea/post/7262d0e2-42e6-4cf5-98a1-ba0830b748ed/image.png)
+
+![](https://velog.velcdn.com/images/seatrea/post/d966680b-a6fa-49b2-b51b-f8a409ee50c6/image.png)
 
 - 게시글 전체 목록 페이지
-![](https://velog.velcdn.com/images/seatrea/post/f6525611-c28f-41f5-8164-e1d9bc7197f4/image.png)
+
+![](https://velog.velcdn.com/images/seatrea/post/7dd95b0f-4a22-46e8-ab4a-37346c48d922/image.png)
 
 - 게시글 작성 페이지
-![](https://velog.velcdn.com/images/seatrea/post/3668f66d-e974-49a9-8a4e-4eb242cc15c2/image.png)
+
+![](https://velog.velcdn.com/images/seatrea/post/a43ce001-ef44-4bf1-8332-e45018f11336/image.png)
 
 - 게시글 상세 조회 페이지
-![](https://velog.velcdn.com/images/seatrea/post/4676e6ea-e06e-48ac-bf6e-6826a9091141/image.png)
+
+![](https://velog.velcdn.com/images/seatrea/post/bbcf490b-763b-4538-91b8-2cec480c02f9/image.png)
+
+- 게시글 수정 페이지
+
+![](https://velog.velcdn.com/images/seatrea/post/67fb9c75-8e72-4146-a9ce-6e3a3d636449/image.png)
 
 ---
 
